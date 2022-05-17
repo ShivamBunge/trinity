@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/trinity/static/css/main.51141a40.css",
+    "main.css": "/trinity/static/css/main.967a9543.css",
     "main.js": "/trinity/static/js/main.4b6c0133.js",
     "index.html": "/trinity/index.html",
-    "main.51141a40.css.map": "/trinity/static/css/main.51141a40.css.map",
+    "main.967a9543.css.map": "/trinity/static/css/main.967a9543.css.map",
     "main.4b6c0133.js.map": "/trinity/static/js/main.4b6c0133.js.map"
   },
   "entrypoints": [
-    "static/css/main.51141a40.css",
+    "static/css/main.967a9543.css",
     "static/js/main.4b6c0133.js"
   ]
 }

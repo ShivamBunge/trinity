@@ -1,0 +1,20 @@
+@import url('http://fonts.cdnfonts.com/css/old-english-five');
+.TrinityHeader_container {
+	margin: 0 auto;
+	text-align: center;
+}
+.Trinity_title {
+	font-family: Old English Five, serif;
+	font-weight: 200;
+}
+.TrinityHeader_dash {
+	border-bottom: 1.5px solid #fff;
+	width: 100%;
+}
+.TrinityHeader_dash:not(:last-child) {
+	margin-top: 2px;
+	margin-bottom: 4px;
+}
+.TrinityHeader_GGI {
+	font-family: Cinzel, serif;
+}
